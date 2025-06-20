@@ -1,7 +1,7 @@
 <h1 align="center">Oi! 👋 Eu sou Roberto Mateus</h1>
 
 <p align="center">
-  👨‍💻 Desenvolvedor Fullstack | 🚀 Apaixonado por tecnologia 
+  👨‍💻 Desenvolvedor FullStack 
 </p>
 
 <p align="center">
