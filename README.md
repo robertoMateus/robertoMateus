@@ -1,46 +1,60 @@
-<h1 align="center">Oi! 👋 Eu sou Roberto Mateus</h1>
+# <h1 align="center">Olá! 👋 Eu sou Roberto Mateus</h1>
 
 <p align="center">
-  👨‍💻 Desenvolvedor FullStack 
+  💻 Desenvolvedor FullStack
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-mateus-de-melo-silva-b7418b236/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 🔨 Trabalhando em projetos com **Spring Boot**, **MySQL**, **React**, **Typescript** e **Java**
----
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-### 🧰 Tecnologias que domino
+💼 Atualmente trabalhando e estudando tecnologias voltadas para desenvolvimento backend e frontend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+🧠 Sempre buscando evoluir como desenvolvedor e aprender mais sobre arquitetura, APIs, performance e boas práticas
 
+⚡ Tenho experiência com projetos utilizando:
 
+* Java + Spring Boot
+* React + TypeScript
+* Go (Golang)
+* MySQL e PostgreSQL
 
 ---
 
+## 🛠️ Tecnologias
 
-### 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/roberto-mateus-de-melo-silva-b7418b236/)
-- Email✉️ robertomateusdemelosilva@gmail.com
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
-Se gostou de algum projeto, fique à vontade para deixar uma estrela ⭐, contribuir ou me chamar pra conversar!  
 
+## 📫 Contato
+
+📧 Email: [robertomateusdemelosilva@gmail.com](mailto:robertomateusdemelosilva@gmail.com)
+
+💼 LinkedIn: <a href="https://www.linkedin.com/in/roberto-mateus-de-melo-silva-b7418b236/">
+Roberto Mateus </a>
+
+---
+
+## ⭐ Obrigado pela visita!
+
+Fico feliz que tenha passado pelo meu perfil 😄
+
+Se curtir algum projeto, fique à vontade para deixar uma ⭐ ou trocar uma ideia!
