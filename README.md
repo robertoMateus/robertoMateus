@@ -62,5 +62,3 @@ Se curtir algum projeto, fique à vontade para deixar uma ⭐ ou trocar uma idei
 ## 📊 Contribuições
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=robertoMateus&theme=github-compact&hide_border=true&area=true&color=00e676&line=00e676&point=ffffff)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertoMateus&show_icons=true&theme=dark&hide_border=true)
